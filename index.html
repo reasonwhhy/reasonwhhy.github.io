@@ -5,36 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image to Emoji Art</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 20px;
-        }
-        #drop-area {
-            border: 2px dashed #ccc;
-            padding: 30px;
-            cursor: pointer;
-            margin: 20px auto;
-            width: 50%;
-        }
-        #drop-area.highlight {
-            border-color: #007BFF;
-        }
-        img {
-            max-width: 100%;
-            margin-top: 20px;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            text-align: left;
-            overflow-x: auto;
-        }
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        #drop-area { border: 2px dashed #ccc; padding: 30px; cursor: pointer; margin: 20px auto; width: 50%; }
+        #drop-area.highlight { border-color: #007BFF; }
+        img { max-width: 100%; margin-top: 20px; }
+        pre { background: #f4f4f4; padding: 10px; text-align: left; overflow-x: auto; white-space: pre-wrap; }
+        input { width: 60px; text-align: center; margin: 5px; }
+        button { padding: 8px 15px; cursor: pointer; }
     </style>
 </head>
 <body>
 
     <h1>Upload an Image for Emoji Art</h1>
+
+    <div>
+        <label>Width: <input type="number" id="width-input" value="40" min="10" max="100"></label>
+        <label>Height: <input type="number" id="height-input" value="20" min="10" max="50"></label>
+        <button onclick="reprocessImage()">Apply</button>
+    </div>
 
     <div id="drop-area">
         <p>Drag & Drop an image here or click to upload</p>
@@ -43,14 +31,35 @@
 
     <img id="preview" style="display:none;">
 
-    <h2>Generated Text Output:</h2>
+    <h2>Generated Emoji Art:</h2>
     <pre id="text-output">[Text Output Will Appear Here]</pre>
+
+    <canvas id="canvas" style="display:none;"></canvas>
 
     <script>
         const dropArea = document.getElementById("drop-area");
         const fileInput = document.getElementById("file-input");
         const preview = document.getElementById("preview");
         const textOutput = document.getElementById("text-output");
+        const canvas = document.getElementById("canvas");
+        const ctx = canvas.getContext("2d");
+
+        const widthInput = document.getElementById("width-input");
+        const heightInput = document.getElementById("height-input");
+
+        let currentImageSrc = null; // Store the image for reprocessing
+
+        const GRAY_EMOJI_MAP = [
+            { value: 0, emoji: "⬛" },   // Black
+            { value: 32, emoji: "🎥" },  // Dark gray
+            { value: 64, emoji: "📽️" },  // Medium-dark gray
+            { value: 96, emoji: "🎱" },  // Slightly lighter gray
+            { value: 128, emoji: "🔳" }, // Mid gray
+            { value: 160, emoji: "🔲" }, // Light gray
+            { value: 192, emoji: "⚽" }, // Very light gray
+            { value: 224, emoji: "🎹" }, // Near white
+            { value: 255, emoji: "⬜" }  // White
+        ];
 
         dropArea.addEventListener("click", () => fileInput.click());
 
@@ -79,14 +88,59 @@
             if (file && file.type.startsWith("image/")) {
                 const reader = new FileReader();
                 reader.onload = function (event) {
-                    preview.src = event.target.result;
+                    currentImageSrc = event.target.result;
+                    preview.src = currentImageSrc;
                     preview.style.display = "block";
-                    textOutput.textContent = "Processing image... (Placeholder for actual emoji text)";
+                    processImage();
                 };
                 reader.readAsDataURL(file);
             } else {
                 alert("Please upload a valid image file.");
             }
+        }
+
+        function processImage() {
+            if (!currentImageSrc) return;
+            
+            const img = new Image();
+            img.src = currentImageSrc;
+            img.onload = function () {
+                const outputWidth = parseInt(widthInput.value);
+                const outputHeight = parseInt(heightInput.value);
+
+                canvas.width = outputWidth;
+                canvas.height = outputHeight;
+                ctx.drawImage(img, 0, 0, outputWidth, outputHeight);
+
+                const imageData = ctx.getImageData(0, 0, outputWidth, outputHeight).data;
+                let emojiArt = "";
+
+                for (let y = 0; y < outputHeight; y++) {
+                    let line = "";
+                    for (let x = 0; x < outputWidth; x++) {
+                        const i = (y * outputWidth + x) * 4;
+                        const r = imageData[i];
+                        const g = imageData[i + 1];
+                        const b = imageData[i + 2];
+
+                        const luminance = Math.round(0.299 * r + 0.587 * g + 0.114 * b);
+                        line += closestGrayEmoji(luminance);
+                    }
+                    emojiArt += line + "\n";
+                }
+
+                textOutput.textContent = emojiArt;
+            };
+        }
+
+        function closestGrayEmoji(luminance) {
+            return GRAY_EMOJI_MAP.reduce((prev, curr) =>
+                Math.abs(curr.value - luminance) < Math.abs(prev.value - luminance) ? curr : prev
+            ).emoji;
+        }
+
+        function reprocessImage() {
+            processImage(); // Re-run the image processing when resolution changes
         }
     </script>
 
