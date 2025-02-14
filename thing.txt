@@ -1,0 +1,11 @@
+const GRAY_EMOJI_MAP = [
+            { value: 0, emoji: "⬛" },   // Black
+            { value: 32, emoji: "🎥" },  // Dark gray
+            { value: 64, emoji: "📽️" },  // Medium-dark gray
+            { value: 96, emoji: "🎱" },  // Slightly lighter gray
+            { value: 128, emoji: "🔳" }, // Mid gray
+            { value: 160, emoji: "🔲" }, // Light gray
+            { value: 192, emoji: "⚽" }, // Very light gray
+            { value: 224, emoji: "🎹" }, // Near white
+            { value: 255, emoji: "⬜" }  // White
+        ];

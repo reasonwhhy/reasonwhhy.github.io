@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input {
+    margin: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+pre {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-width: 90%;
+    margin: 20px auto;
+    overflow-x: auto;
+}
+
+/* Drag & Drop Styles */
+#dropArea {
+    border: 2px dashed #999;
+    padding: 30px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 400px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+#dropArea.highlight {
+    border-color: #007bff;
+    background-color: #eef7ff;
+}
+
+#dropArea p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+}
