@@ -471,14 +471,6 @@
             26
         ]
     },
-    "🌫": {
-        "unicode": "emoji_u1f32b.png",
-        "color": [
-            202,
-            209,
-            210
-        ]
-    },
     "😱": {
         "unicode": "emoji_u1f631.png",
         "color": [
@@ -2255,14 +2247,6 @@
             42
         ]
     },
-    "❤": {
-        "unicode": "emoji_u2764.png",
-        "color": [
-            136,
-            39,
-            33
-        ]
-    },
     "💑": {
         "unicode": "emoji_u1f491.png",
         "color": [
@@ -2493,14 +2477,6 @@
             47,
             56,
             35
-        ]
-    },
-    "⛑": {
-        "unicode": "emoji_u26d1.png",
-        "color": [
-            116,
-            44,
-            37
         ]
     },
     "👒": {
@@ -2789,14 +2765,6 @@
             140,
             74,
             62
-        ]
-    },
-    "♥": {
-        "unicode": "emoji_u2665.png",
-        "color": [
-            149,
-            20,
-            27
         ]
     },
     "🐶": {
@@ -7079,22 +7047,6 @@
             112
         ]
     },
-    "🖱": {
-        "unicode": "emoji_u1f5b1.png",
-        "color": [
-            112,
-            112,
-            112
-        ]
-    },
-    "🖲": {
-        "unicode": "emoji_u1f5b2.png",
-        "color": [
-            67,
-            49,
-            48
-        ]
-    },
     "📸": {
         "unicode": "emoji_u1f4f8.png",
         "color": [
@@ -7149,22 +7101,6 @@
             139,
             157,
             160
-        ]
-    },
-    "🗜": {
-        "unicode": "emoji_u1f5dc.png",
-        "color": [
-            37,
-            54,
-            60
-        ]
-    },
-    "🕹": {
-        "unicode": "emoji_u1f579.png",
-        "color": [
-            60,
-            45,
-            42
         ]
     },
     "📹": {
@@ -7239,36 +7175,12 @@
             76
         ]
     },
-    "🕰": {
-        "unicode": "emoji_u1f570.png",
-        "color": [
-            101,
-            78,
-            55
-        ]
-    },
     "⏰": {
         "unicode": "emoji_u23f0.png",
         "color": [
             138,
             92,
             90
-        ]
-    },
-    "⏲": {
-        "unicode": "emoji_u23f2.png",
-        "color": [
-            142,
-            157,
-            160
-        ]
-    },
-    "⏱": {
-        "unicode": "emoji_u23f1.png",
-        "color": [
-            115,
-            117,
-            118
         ]
     },
     "🧭": {
@@ -7285,22 +7197,6 @@
             134,
             138,
             139
-        ]
-    },
-    "🎚": {
-        "unicode": "emoji_u1f39a.png",
-        "color": [
-            99,
-            99,
-            99
-        ]
-    },
-    "🎙": {
-        "unicode": "emoji_u1f399.png",
-        "color": [
-            53,
-            70,
-            75
         ]
     },
     "📻": {
@@ -7351,36 +7247,12 @@
             69
         ]
     },
-    "🔌": {
-        "unicode": "emoji_u1f50c.png",
-        "color": [
-            41,
-            41,
-            41
-        ]
-    },
     "💡": {
         "unicode": "emoji_u1f4a1.png",
         "color": [
             87,
             79,
             22
-        ]
-    },
-    "🔦": {
-        "unicode": "emoji_u1f526.png",
-        "color": [
-            34,
-            56,
-            55
-        ]
-    },
-    "🕯": {
-        "unicode": "emoji_u1f56f.png",
-        "color": [
-            70,
-            67,
-            58
         ]
     },
     "🪙": {
@@ -7503,14 +7375,6 @@
             35
         ]
     },
-    "🪛": {
-        "unicode": "emoji_u1fa9b.png",
-        "color": [
-            46,
-            24,
-            22
-        ]
-    },
     "🧱": {
         "unicode": "emoji_u1f9f1.png",
         "color": [
@@ -7535,62 +7399,6 @@
             98
         ]
     },
-    "🔩": {
-        "unicode": "emoji_u1f529.png",
-        "color": [
-            57,
-            80,
-            85
-        ]
-    },
-    "🪚": {
-        "unicode": "emoji_u1fa9a.png",
-        "color": [
-            67,
-            64,
-            58
-        ]
-    },
-    "⛏": {
-        "unicode": "emoji_u26cf.png",
-        "color": [
-            28,
-            27,
-            24
-        ]
-    },
-    "🛠": {
-        "unicode": "emoji_u1f6e0.png",
-        "color": [
-            55,
-            64,
-            64
-        ]
-    },
-    "⚒": {
-        "unicode": "emoji_u2692.png",
-        "color": [
-            55,
-            53,
-            48
-        ]
-    },
-    "🔨": {
-        "unicode": "emoji_u1f528.png",
-        "color": [
-            31,
-            29,
-            26
-        ]
-    },
-    "⛓": {
-        "unicode": "emoji_u26d3.png",
-        "color": [
-            48,
-            66,
-            72
-        ]
-    },
     "🧲": {
         "unicode": "emoji_u1f9f2.png",
         "color": [
@@ -7613,46 +7421,6 @@
             51,
             44,
             35
-        ]
-    },
-    "🧨": {
-        "unicode": "emoji_u1f9e8.png",
-        "color": [
-            72,
-            23,
-            7
-        ]
-    },
-    "🪓": {
-        "unicode": "emoji_u1fa93.png",
-        "color": [
-            72,
-            47,
-            34
-        ]
-    },
-    "🔪": {
-        "unicode": "emoji_u1f52a.png",
-        "color": [
-            44,
-            44,
-            45
-        ]
-    },
-    "🗡": {
-        "unicode": "emoji_u1f5e1.png",
-        "color": [
-            40,
-            40,
-            35
-        ]
-    },
-    "⚔": {
-        "unicode": "emoji_u2694.png",
-        "color": [
-            52,
-            56,
-            52
         ]
     },
     "🧿": {
@@ -7687,28 +7455,12 @@
             21
         ]
     },
-    "⚱": {
-        "unicode": "emoji_u26b1.png",
-        "color": [
-            102,
-            70,
-            33
-        ]
-    },
     "🪦": {
         "unicode": "emoji_u1faa6.png",
         "color": [
             97,
             100,
             101
-        ]
-    },
-    "⚰": {
-        "unicode": "emoji_u26b0.png",
-        "color": [
-            90,
-            56,
-            40
         ]
     },
     "🚬": {
@@ -7735,28 +7487,12 @@
             83
         ]
     },
-    "💈": {
-        "unicode": "emoji_u1f488.png",
-        "color": [
-            63,
-            61,
-            67
-        ]
-    },
     "⚗": {
         "unicode": "emoji_u2697.png",
         "color": [
             70,
             83,
             107
-        ]
-    },
-    "🔭": {
-        "unicode": "emoji_u1f52d.png",
-        "color": [
-            34,
-            39,
-            41
         ]
     },
     "🕳": {
@@ -7773,38 +7509,6 @@
             109,
             149,
             180
-        ]
-    },
-    "🩺": {
-        "unicode": "emoji_u1fa7a.png",
-        "color": [
-            19,
-            42,
-            52
-        ]
-    },
-    "🧹": {
-        "unicode": "emoji_u1f9f9.png",
-        "color": [
-            39,
-            29,
-            14
-        ]
-    },
-    "🌡": {
-        "unicode": "emoji_u1f321.png",
-        "color": [
-            44,
-            37,
-            37
-        ]
-    },
-    "🧪": {
-        "unicode": "emoji_u1f9ea.png",
-        "color": [
-            16,
-            59,
-            57
         ]
     },
     "🧫": {
@@ -7837,30 +7541,6 @@
             88,
             21,
             19
-        ]
-    },
-    "💉": {
-        "unicode": "emoji_u1f489.png",
-        "color": [
-            40,
-            51,
-            52
-        ]
-    },
-    "💊": {
-        "unicode": "emoji_u1f48a.png",
-        "color": [
-            121,
-            73,
-            35
-        ]
-    },
-    "🪠": {
-        "unicode": "emoji_u1faa0.png",
-        "color": [
-            51,
-            26,
-            22
         ]
     },
     "🧺": {
@@ -7935,22 +7615,6 @@
             33
         ]
     },
-    "🗝": {
-        "unicode": "emoji_u1f5dd.png",
-        "color": [
-            26,
-            32,
-            34
-        ]
-    },
-    "🔑": {
-        "unicode": "emoji_u1f511.png",
-        "color": [
-            103,
-            81,
-            17
-        ]
-    },
     "🛎": {
         "unicode": "emoji_u1f6ce.png",
         "color": [
@@ -7981,22 +7645,6 @@
             128,
             118,
             39
-        ]
-    },
-    "🪒": {
-        "unicode": "emoji_u1fa92.png",
-        "color": [
-            20,
-            46,
-            45
-        ]
-    },
-    "🪥": {
-        "unicode": "emoji_u1faa5.png",
-        "color": [
-            47,
-            28,
-            11
         ]
     },
     "🪑": {
@@ -8239,14 +7887,6 @@
             103
         ]
     },
-    "🏷": {
-        "unicode": "emoji_u1f3f7.png",
-        "color": [
-            90,
-            75,
-            54
-        ]
-    },
     "📦": {
         "unicode": "emoji_u1f4e6.png",
         "color": [
@@ -8309,14 +7949,6 @@
             124,
             55,
             52
-        ]
-    },
-    "📯": {
-        "unicode": "emoji_u1f4ef.png",
-        "color": [
-            47,
-            29,
-            5
         ]
     },
     "📜": {
@@ -8391,22 +8023,6 @@
             132
         ]
     },
-    "🗓": {
-        "unicode": "emoji_u1f5d3.png",
-        "color": [
-            150,
-            147,
-            158
-        ]
-    },
-    "🗒": {
-        "unicode": "emoji_u1f5d2.png",
-        "color": [
-            141,
-            158,
-            163
-        ]
-    },
     "📉": {
         "unicode": "emoji_u1f4c9.png",
         "color": [
@@ -8429,30 +8045,6 @@
             182,
             194,
             196
-        ]
-    },
-    "🗃": {
-        "unicode": "emoji_u1f5c3.png",
-        "color": [
-            84,
-            85,
-            69
-        ]
-    },
-    "🗳": {
-        "unicode": "emoji_u1f5f3.png",
-        "color": [
-            24,
-            79,
-            129
-        ]
-    },
-    "🗄": {
-        "unicode": "emoji_u1f5c4.png",
-        "color": [
-            61,
-            75,
-            82
         ]
     },
     "📋": {
@@ -8485,14 +8077,6 @@
             185,
             159,
             74
-        ]
-    },
-    "🗞": {
-        "unicode": "emoji_u1f5de.png",
-        "color": [
-            95,
-            94,
-            93
         ]
     },
     "📰": {
@@ -8575,60 +8159,12 @@
             87
         ]
     },
-    "🔖": {
-        "unicode": "emoji_u1f516.png",
-        "color": [
-            80,
-            26,
-            20
-        ]
-    },
-    "🧷": {
-        "unicode": "emoji_u1f9f7.png",
-        "color": [
-            23,
-            32,
-            35
-        ]
-    },
-    "🔗": {
-        "unicode": "emoji_u1f517.png",
-        "color": [
-            48,
-            65,
-            72
-        ]
-    },
-    "📎": {
-        "unicode": "emoji_u1f4ce.png",
-        "color": [
-            28,
-            42,
-            46
-        ]
-    },
-    "🖇": {
-        "unicode": "emoji_u1f587.png",
-        "color": [
-            39,
-            58,
-            64
-        ]
-    },
     "📐": {
         "unicode": "emoji_u1f4d0.png",
         "color": [
             98,
             80,
             19
-        ]
-    },
-    "📏": {
-        "unicode": "emoji_u1f4cf.png",
-        "color": [
-            71,
-            58,
-            14
         ]
     },
     "🧮": {
@@ -8639,76 +8175,12 @@
             42
         ]
     },
-    "📌": {
-        "unicode": "emoji_u1f4cc.png",
-        "color": [
-            80,
-            29,
-            24
-        ]
-    },
-    "✏": {
-        "unicode": "emoji_u270f.png",
-        "color": [
-            76,
-            57,
-            25
-        ]
-    },
     "📝": {
         "unicode": "emoji_u1f4dd.png",
         "color": [
             172,
             170,
             158
-        ]
-    },
-    "🖍": {
-        "unicode": "emoji_u1f58d.png",
-        "color": [
-            65,
-            22,
-            21
-        ]
-    },
-    "🖌": {
-        "unicode": "emoji_u1f58c.png",
-        "color": [
-            23,
-            26,
-            28
-        ]
-    },
-    "✒": {
-        "unicode": "emoji_u2712.png",
-        "color": [
-            42,
-            50,
-            47
-        ]
-    },
-    "🖋": {
-        "unicode": "emoji_u1f58b.png",
-        "color": [
-            24,
-            24,
-            18
-        ]
-    },
-    "🖊": {
-        "unicode": "emoji_u1f58a.png",
-        "color": [
-            13,
-            27,
-            42
-        ]
-    },
-    "✂": {
-        "unicode": "emoji_u2702.png",
-        "color": [
-            57,
-            41,
-            42
         ]
     },
     "📍": {
@@ -8895,76 +8367,12 @@
             193
         ]
     },
-    "🏿": {
-        "unicode": "emoji_u1f3ff.png",
-        "color": [
-            94,
-            69,
-            61
-        ]
-    },
-    "🏾": {
-        "unicode": "emoji_u1f3fe.png",
-        "color": [
-            141,
-            90,
-            56
-        ]
-    },
-    "🏽": {
-        "unicode": "emoji_u1f3fd.png",
-        "color": [
-            160,
-            121,
-            91
-        ]
-    },
-    "🏼": {
-        "unicode": "emoji_u1f3fc.png",
-        "color": [
-            194,
-            161,
-            126
-        ]
-    },
-    "🏻": {
-        "unicode": "emoji_u1f3fb.png",
-        "color": [
-            224,
-            194,
-            159
-        ]
-    },
     "💟": {
         "unicode": "emoji_u1f49f.png",
         "color": [
             169,
             113,
             180
-        ]
-    },
-    "☮": {
-        "unicode": "emoji_u262e.png",
-        "color": [
-            167,
-            100,
-            180
-        ]
-    },
-    "☦": {
-        "unicode": "emoji_u2626.png",
-        "color": [
-            161,
-            86,
-            174
-        ]
-    },
-    "☯": {
-        "unicode": "emoji_u262f.png",
-        "color": [
-            171,
-            110,
-            183
         ]
     },
     "🕎": {
@@ -8981,46 +8389,6 @@
             160,
             89,
             173
-        ]
-    },
-    "✡": {
-        "unicode": "emoji_u2721.png",
-        "color": [
-            162,
-            88,
-            175
-        ]
-    },
-    "☸": {
-        "unicode": "emoji_u2638.png",
-        "color": [
-            164,
-            93,
-            177
-        ]
-    },
-    "🕉": {
-        "unicode": "emoji_u1f549.png",
-        "color": [
-            161,
-            90,
-            174
-        ]
-    },
-    "☪": {
-        "unicode": "emoji_u262a.png",
-        "color": [
-            162,
-            89,
-            176
-        ]
-    },
-    "✝": {
-        "unicode": "emoji_u271d.png",
-        "color": [
-            156,
-            76,
-            171
         ]
     },
     "🛐": {
@@ -9095,14 +8463,6 @@
             90
         ]
     },
-    "⚛": {
-        "unicode": "emoji_u269b.png",
-        "color": [
-            166,
-            98,
-            178
-        ]
-    },
     "🆔": {
         "unicode": "emoji_u1f194.png",
         "color": [
@@ -9159,14 +8519,6 @@
             38
         ]
     },
-    "☢": {
-        "unicode": "emoji_u2622.png",
-        "color": [
-            124,
-            97,
-            22
-        ]
-    },
     "📴": {
         "unicode": "emoji_u1f4f4.png",
         "color": [
@@ -9215,22 +8567,6 @@
             49
         ]
     },
-    "🈷": {
-        "unicode": "emoji_u1f237.png",
-        "color": [
-            222,
-            148,
-            43
-        ]
-    },
-    "✴": {
-        "unicode": "emoji_u2734.png",
-        "color": [
-            85,
-            47,
-            0
-        ]
-    },
     "🈲": {
         "unicode": "emoji_u1f232.png",
         "color": [
@@ -9263,22 +8599,6 @@
             82
         ]
     },
-    "㊗": {
-        "unicode": "emoji_u3297.png",
-        "color": [
-            169,
-            78,
-            73
-        ]
-    },
-    "㊙": {
-        "unicode": "emoji_u3299.png",
-        "color": [
-            169,
-            79,
-            74
-        ]
-    },
     "🉐": {
         "unicode": "emoji_u1f250.png",
         "color": [
@@ -9303,36 +8623,12 @@
             37
         ]
     },
-    "🅰": {
-        "unicode": "emoji_u1f170.png",
-        "color": [
-            211,
-            91,
-            83
-        ]
-    },
-    "🅱": {
-        "unicode": "emoji_u1f171.png",
-        "color": [
-            211,
-            98,
-            91
-        ]
-    },
     "🆎": {
         "unicode": "emoji_u1f18e.png",
         "color": [
             211,
             91,
             83
-        ]
-    },
-    "🅾": {
-        "unicode": "emoji_u1f17e.png",
-        "color": [
-            211,
-            98,
-            91
         ]
     },
     "🆑": {
@@ -9397,14 +8693,6 @@
             102,
             55,
             54
-        ]
-    },
-    "♨": {
-        "unicode": "emoji_u2668.png",
-        "color": [
-            110,
-            33,
-            28
         ]
     },
     "💢": {
@@ -9479,60 +8767,12 @@
             54
         ]
     },
-    "❗": {
-        "unicode": "emoji_u2757.png",
-        "color": [
-            36,
-            10,
-            8
-        ]
-    },
-    "❕": {
-        "unicode": "emoji_u2755.png",
-        "color": [
-            33,
-            33,
-            33
-        ]
-    },
-    "❓": {
-        "unicode": "emoji_u2753.png",
-        "color": [
-            45,
-            12,
-            10
-        ]
-    },
-    "❔": {
-        "unicode": "emoji_u2754.png",
-        "color": [
-            41,
-            41,
-            41
-        ]
-    },
-    "‼": {
-        "unicode": "emoji_u203c.png",
-        "color": [
-            72,
-            20,
-            17
-        ]
-    },
     "🔰": {
         "unicode": "emoji_u1f530.png",
         "color": [
             79,
             106,
             59
-        ]
-    },
-    "⚜": {
-        "unicode": "emoji_u269c.png",
-        "color": [
-            90,
-            67,
-            18
         ]
     },
     "🔱": {
@@ -9551,22 +8791,6 @@
             22
         ]
     },
-    "⚠": {
-        "unicode": "emoji_u26a0.png",
-        "color": [
-            122,
-            97,
-            24
-        ]
-    },
-    "〽": {
-        "unicode": "emoji_u303d.png",
-        "color": [
-            86,
-            69,
-            17
-        ]
-    },
     "🔆": {
         "unicode": "emoji_u1f506.png",
         "color": [
@@ -9581,22 +8805,6 @@
             58,
             35,
             5
-        ]
-    },
-    "⁉": {
-        "unicode": "emoji_u2049.png",
-        "color": [
-            81,
-            23,
-            19
-        ]
-    },
-    "♻": {
-        "unicode": "emoji_u267b.png",
-        "color": [
-            45,
-            71,
-            22
         ]
     },
     "✅": {
@@ -9621,22 +8829,6 @@
             122,
             164,
             78
-        ]
-    },
-    "❇": {
-        "unicode": "emoji_u2747.png",
-        "color": [
-            43,
-            61,
-            23
-        ]
-    },
-    "✳": {
-        "unicode": "emoji_u2733.png",
-        "color": [
-            37,
-            54,
-            20
         ]
     },
     "❎": {
@@ -9727,22 +8919,6 @@
             123
         ]
     },
-    "Ⓜ": {
-        "unicode": "emoji_u24c2.png",
-        "color": [
-            58,
-            92,
-            154
-        ]
-    },
-    "🈂": {
-        "unicode": "emoji_u1f202.png",
-        "color": [
-            132,
-            159,
-            171
-        ]
-    },
     "🛂": {
         "unicode": "emoji_u1f6c2.png",
         "color": [
@@ -9799,14 +8975,6 @@
             195
         ]
     },
-    "⚧": {
-        "unicode": "emoji_u26a7.png",
-        "color": [
-            85,
-            55,
-            12
-        ]
-    },
     "🔡": {
         "unicode": "emoji_u1f521.png",
         "color": [
@@ -9819,14 +8987,6 @@
         "unicode": "emoji_u1f524.png",
         "color": [
             128,
-            157,
-            170
-        ]
-    },
-    "ℹ": {
-        "unicode": "emoji_u2139.png",
-        "color": [
-            127,
             157,
             170
         ]
@@ -9935,14 +9095,6 @@
             168
         ]
     },
-    "⃣": {
-        "unicode": "emoji_u20e3.png",
-        "color": [
-            105,
-            140,
-            154
-        ]
-    },
     "🔟": {
         "unicode": "emoji_u1f51f.png",
         "color": [
@@ -9959,54 +9111,6 @@
             170
         ]
     },
-    "⏏": {
-        "unicode": "emoji_u23cf.png",
-        "color": [
-            223,
-            148,
-            43
-        ]
-    },
-    "▶": {
-        "unicode": "emoji_u25b6.png",
-        "color": [
-            225,
-            142,
-            24
-        ]
-    },
-    "⏸": {
-        "unicode": "emoji_u23f8.png",
-        "color": [
-            225,
-            144,
-            29
-        ]
-    },
-    "⏯": {
-        "unicode": "emoji_u23ef.png",
-        "color": [
-            225,
-            152,
-            49
-        ]
-    },
-    "⏹": {
-        "unicode": "emoji_u23f9.png",
-        "color": [
-            225,
-            152,
-            49
-        ]
-    },
-    "⏺": {
-        "unicode": "emoji_u23fa.png",
-        "color": [
-            225,
-            148,
-            39
-        ]
-    },
     "🔽": {
         "unicode": "emoji_u1f53d.png",
         "color": [
@@ -10021,14 +9125,6 @@
             222,
             143,
             31
-        ]
-    },
-    "◀": {
-        "unicode": "emoji_u25c0.png",
-        "color": [
-            225,
-            142,
-            24
         ]
     },
     "⏬": {
@@ -10061,94 +9157,6 @@
             225,
             149,
             43
-        ]
-    },
-    "⏮": {
-        "unicode": "emoji_u23ee.png",
-        "color": [
-            225,
-            153,
-            52
-        ]
-    },
-    "⏭": {
-        "unicode": "emoji_u23ed.png",
-        "color": [
-            225,
-            153,
-            52
-        ]
-    },
-    "➡": {
-        "unicode": "emoji_u27a1.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "⬅": {
-        "unicode": "emoji_u2b05.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "⬆": {
-        "unicode": "emoji_u2b06.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "⬇": {
-        "unicode": "emoji_u2b07.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "↗": {
-        "unicode": "emoji_u2197.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "↘": {
-        "unicode": "emoji_u2198.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "↙": {
-        "unicode": "emoji_u2199.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "↖": {
-        "unicode": "emoji_u2196.png",
-        "color": [
-            129,
-            158,
-            170
-        ]
-    },
-    "↕": {
-        "unicode": "emoji_u2195.png",
-        "color": [
-            135,
-            162,
-            174
         ]
     },
     "🔄": {
@@ -10271,14 +9279,6 @@
             36
         ]
     },
-    "✖": {
-        "unicode": "emoji_u2716.png",
-        "color": [
-            51,
-            52,
-            54
-        ]
-    },
     "🟰": {
         "unicode": "emoji_u1f7f0.png",
         "color": [
@@ -10325,14 +9325,6 @@
             132,
             132,
             132
-        ]
-    },
-    "™": {
-        "unicode": "emoji_u2122.png",
-        "color": [
-            31,
-            32,
-            33
         ]
     },
     "💱": {
@@ -10423,22 +9415,6 @@
             8
         ]
     },
-    "▫": {
-        "unicode": "emoji_u25ab.png",
-        "color": [
-            13,
-            13,
-            13
-        ]
-    },
-    "▪": {
-        "unicode": "emoji_u25aa.png",
-        "color": [
-            4,
-            4,
-            4
-        ]
-    },
     "🔲": {
         "unicode": "emoji_u1f532.png",
         "color": [
@@ -10495,38 +9471,6 @@
             7
         ]
     },
-    "◾": {
-        "unicode": "emoji_u25fe.png",
-        "color": [
-            14,
-            14,
-            14
-        ]
-    },
-    "◽": {
-        "unicode": "emoji_u25fd.png",
-        "color": [
-            42,
-            42,
-            42
-        ]
-    },
-    "◼": {
-        "unicode": "emoji_u25fc.png",
-        "color": [
-            34,
-            34,
-            34
-        ]
-    },
-    "◻": {
-        "unicode": "emoji_u25fb.png",
-        "color": [
-            105,
-            105,
-            105
-        ]
-    },
     "🔈": {
         "unicode": "emoji_u1f508.png",
         "color": [
@@ -10565,22 +9509,6 @@
             121,
             97,
             27
-        ]
-    },
-    "♣": {
-        "unicode": "emoji_u2663.png",
-        "color": [
-            38,
-            41,
-            43
-        ]
-    },
-    "♠": {
-        "unicode": "emoji_u2660.png",
-        "color": [
-            38,
-            41,
-            42
         ]
     },
     "🗯": {
@@ -10629,14 +9557,6 @@
             112,
             58,
             39
-        ]
-    },
-    "♦": {
-        "unicode": "emoji_u2666.png",
-        "color": [
-            92,
-            11,
-            16
         ]
     },
     "🃏": {
@@ -10885,214 +9805,6 @@
             81,
             27,
             26
-        ]
-    },
-    "🇺": {
-        "unicode": "emoji_u1f1fa.png",
-        "color": [
-            26,
-            78,
-            94
-        ]
-    },
-    "🇳": {
-        "unicode": "emoji_u1f1f3.png",
-        "color": [
-            28,
-            86,
-            103
-        ]
-    },
-    "🇮": {
-        "unicode": "emoji_u1f1ee.png",
-        "color": [
-            12,
-            36,
-            44
-        ]
-    },
-    "🇸": {
-        "unicode": "emoji_u1f1f8.png",
-        "color": [
-            20,
-            62,
-            75
-        ]
-    },
-    "🇦": {
-        "unicode": "emoji_u1f1e6.png",
-        "color": [
-            23,
-            71,
-            86
-        ]
-    },
-    "🇱": {
-        "unicode": "emoji_u1f1f1.png",
-        "color": [
-            15,
-            47,
-            56
-        ]
-    },
-    "🇼": {
-        "unicode": "emoji_u1f1fc.png",
-        "color": [
-            35,
-            106,
-            128
-        ]
-    },
-    "🇷": {
-        "unicode": "emoji_u1f1f7.png",
-        "color": [
-            26,
-            78,
-            94
-        ]
-    },
-    "🇩": {
-        "unicode": "emoji_u1f1e9.png",
-        "color": [
-            28,
-            85,
-            102
-        ]
-    },
-    "🇿": {
-        "unicode": "emoji_u1f1ff.png",
-        "color": [
-            24,
-            72,
-            87
-        ]
-    },
-    "🇪": {
-        "unicode": "emoji_u1f1ea.png",
-        "color": [
-            22,
-            68,
-            82
-        ]
-    },
-    "🇫": {
-        "unicode": "emoji_u1f1eb.png",
-        "color": [
-            18,
-            54,
-            66
-        ]
-    },
-    "🇲": {
-        "unicode": "emoji_u1f1f2.png",
-        "color": [
-            34,
-            103,
-            124
-        ]
-    },
-    "🇴": {
-        "unicode": "emoji_u1f1f4.png",
-        "color": [
-            28,
-            85,
-            103
-        ]
-    },
-    "🇬": {
-        "unicode": "emoji_u1f1ec.png",
-        "color": [
-            27,
-            82,
-            99
-        ]
-    },
-    "🇾": {
-        "unicode": "emoji_u1f1fe.png",
-        "color": [
-            18,
-            54,
-            64
-        ]
-    },
-    "🇧": {
-        "unicode": "emoji_u1f1e7.png",
-        "color": [
-            25,
-            77,
-            93
-        ]
-    },
-    "🇶": {
-        "unicode": "emoji_u1f1f6.png",
-        "color": [
-            31,
-            93,
-            112
-        ]
-    },
-    "🇹": {
-        "unicode": "emoji_u1f1f9.png",
-        "color": [
-            18,
-            54,
-            65
-        ]
-    },
-    "🇨": {
-        "unicode": "emoji_u1f1e8.png",
-        "color": [
-            23,
-            70,
-            84
-        ]
-    },
-    "🇻": {
-        "unicode": "emoji_u1f1fb.png",
-        "color": [
-            21,
-            64,
-            77
-        ]
-    },
-    "🇭": {
-        "unicode": "emoji_u1f1ed.png",
-        "color": [
-            27,
-            83,
-            100
-        ]
-    },
-    "🇽": {
-        "unicode": "emoji_u1f1fd.png",
-        "color": [
-            25,
-            77,
-            92
-        ]
-    },
-    "🇰": {
-        "unicode": "emoji_u1f1f0.png",
-        "color": [
-            23,
-            71,
-            86
-        ]
-    },
-    "🇵": {
-        "unicode": "emoji_u1f1f5.png",
-        "color": [
-            21,
-            65,
-            79
-        ]
-    },
-    "🇯": {
-        "unicode": "emoji_u1f1ef.png",
-        "color": [
-            17,
-            51,
-            62
         ]
     },
     "🎌": {
